@@ -1,2 +1,0 @@
-# PlaySurvivalCraft
-Minecraft Sunucumm
